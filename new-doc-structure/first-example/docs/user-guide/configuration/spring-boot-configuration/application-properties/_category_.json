@@ -1,0 +1,8 @@
+{
+  "label": "application.properties",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Spring Boot related parameters include important topic like for example the database connection, security and ldap. These can be configured in the corresponding properties file application.properties. Additionaly,rest configuration can be modified in the RestConfiguration class that is annotated with @Configuration"
+  }
+}
