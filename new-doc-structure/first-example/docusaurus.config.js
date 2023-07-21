@@ -26,7 +26,10 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  scripts: [
+    // Other scripts...
+    '/js/feedback.js',
+  ],
   plugins: [
     ['drawio', {}],
   ],
